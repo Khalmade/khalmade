@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Khalil! 
 
-📝 **I’m a Chemical Engineering graduate passionate about using engineering and AI to design sustainable, affordable, and community-owned energy systems for Africa.**  
+📝 **I’m a Chemical Engineer applying data, technology and sustainabile design to build affordable and community-owned energy systems for Africa.**  
 
 ---
 
