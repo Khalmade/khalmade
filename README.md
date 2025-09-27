@@ -6,7 +6,7 @@
 
 ### 🔭 What I’m working on
 - 🏡 **Designing a community-scale biogas system using local kitchen + market waste**
-- ⚡ **Building Machine learning models to accurately predict community electricity demand**
+- ⚡ **Building Machine learning models to accurately forecast community electricity demand**
 - 🔋 **Researching hybrid microgrids that integrate solar + biofuels**
 
 ---
@@ -39,11 +39,11 @@ Aspen Plus | Aspen HYSYS | CHEMCAD | MATLAB | Excel
 ---
 
 ### 🌍 Vision
-I believe in an Africa where **every community has access to affordable, sustainable energy** — built with local resources, powered by innovation, and owned by the people.  
+I believe in an Africa where **every community has access to affordable, sustainable energy** that is built with local resources, powered by indigenous innovation, and owned by the people.  
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](http://linkedin.com/in/khalifa-omade)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:khalifaomade@gmail.com)  
 
