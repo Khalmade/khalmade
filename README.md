@@ -14,7 +14,7 @@
 ### 🌱 What I’m learning
 - **Advanced data science & machine learning for energy systems**  
 - **Process simulation & optimization (Aspen Plus, HYSYS, CHEMCAD)**
-- **Designing **sustainable, locally adapted energy infrastructure**  
+- **Designing sustainable, locally adapted energy infrastructure**  
 
 ---
 
