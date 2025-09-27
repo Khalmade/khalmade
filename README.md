@@ -7,21 +7,21 @@
 ### 🔭 What I’m working on
 - 🏡 **Designing a community-scale biogas system using local kitchen + market waste**
 - ⚡ **Building Machine learning models to accurately predict community electricity demand**
-- 🔋 **Researching hybrid microgrids that integrate **solar + biofuels**  
+- 🔋 **Researching hybrid microgrids that integrate solar + biofuels**
 
 ---
 
 ### 🌱 What I’m learning
-- Advanced **data science & machine learning for energy systems**  
-- Process simulation & optimization (Aspen Plus, HYSYS, CHEMCAD)  
-- Designing **sustainable, locally adapted energy infrastructure**  
+- **Advanced data science & machine learning for energy systems**  
+- **Process simulation & optimization (Aspen Plus, HYSYS, CHEMCAD)**
+- **Designing **sustainable, locally adapted energy infrastructure**  
 
 ---
 
 ### 🧩 Ask me about
-- Renewable energy systems & energy production  
-- Machine learning for energy planning  
-- Process modeling & optimization  
+- **Renewable energy systems & energy production**
+- **Machine learning for energy planning**
+- **Process modeling & optimization**
 
 ---
 
