@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Khalil! 
+## 👋 Hi there, I'm Khalil! 
 
-🌍 **I’m a Chemical Engineering graduate passionate about using engineering and AI to design sustainable, affordable, and community-owned energy systems for Africa.**  
+💬 **I’m a Chemical Engineering graduate passionate about using engineering and AI to design sustainable, affordable, and community-owned energy systems for Africa.**  
 
 ---
 
@@ -12,16 +12,16 @@
 ---
 
 ### 🌱 What I’m learning
-- **Advanced data science & machine learning for energy systems**  
-- **Process simulation & optimization (Aspen Plus, HYSYS, CHEMCAD)**
-- **Designing sustainable, locally adapted energy infrastructure**  
+- 🤖 **Advanced data science & machine learning for energy systems**  
+- 👨🏽‍💻 **Process simulation & optimization (Aspen Plus, HYSYS, CHEMCAD)**
+- ⚙️ **Designing sustainable, locally adapted energy infrastructure**  
 
 ---
 
 ### 🧩 Ask me about
-- **Renewable energy systems & energy production**
-- **Machine learning for energy planning**
-- **Process modeling & optimization**
+- ♻️ **Renewable energy systems & energy production**
+- 🗺️ **Machine learning for energy planning**
+- 📊 **Process modeling & optimization**
 
 ---
 
