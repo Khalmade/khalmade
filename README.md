@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Khalil! 
 
-📝 **I’m a Chemical Engineer applying data, AI and process design to build sustainable, affordable and community-owned energy systems for Africa.**  
+📝 **I’m a Chemical Engineer applying AI, data and process design to build sustainable, affordable and community-owned energy systems for Africa.**  
 
 ---
 
