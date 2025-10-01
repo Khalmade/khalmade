@@ -1,20 +1,20 @@
 ## 👋 Hi there, I'm Khalil! 
 
-📝 **I’m a Chemical Engineer applying data, technology and sustainabile design to build affordable and community-owned energy systems for Africa.**  
+📝 **I’m a Chemical Engineer applying data, AI and process design to build sustainable, affordable and community-owned energy systems for Africa.**  
 
 ---
 
 ### 🔭 What I’m working on
-- 🏡 **Designing a community-scale biogas system using local kitchen + market waste**
-- ⚡ **Building Machine learning models to accurately forecast community electricity demand**
-- 🔋 **Researching hybrid microgrids that integrate solar + biofuels**
+- 🏡 **Designing a community-scale biogas system using local kitchen + market waste.**
+- ⚡ **Building Machine learning models to accurately forecast community electricity demand.**
+- 🔋 **Researching hybrid microgrids that integrate solar + biofuels.**
 
 ---
 
 ### 🌱 What I’m learning
-- 🤖 **Advanced data science & machine learning for energy systems**  
-- 👨🏽‍💻 **Process simulation & optimization (Aspen Plus, HYSYS, CHEMCAD)**
-- ⚙️ **Designing sustainable, locally adapted energy infrastructure**  
+- 🤖 **Advanced data science & machine learning for energy systems.**  
+- 👨🏽‍💻 **Process simulation & optimization (Aspen Plus, HYSYS, CHEMCAD).**
+- ⚙️ **Designing sustainable, locally adapted energy infrastructure.**  
 
 ---
 
